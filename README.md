@@ -1,7 +1,6 @@
 <h1 align="center">Superverse API</h1>
 
 - [Sobre 📖](#sobre-)
-- [Layout 🎨](#layout-)
 - [Diagramas 📁](#diagramas-)
 
 <h2>Sobre 📖</h2>
@@ -12,12 +11,6 @@ enquanto a API de terceiros (<a href="https://www.superheroapi.com/" target="_bl
 as informações necessárias dos personagens.
 
 <a href="https://github.com/Begin-org/superverse" target="_blank">Clique aqui para ver o repositório da aplicação que consome essa API</a>
-
-<h2>Layout 🎨</h2>
-
-<img src="imgs/superverse1.gif"/>
-
-<img src="imgs/superverse2.gif"/>
 
 <h2>Diagramas 📁</h2>
 
